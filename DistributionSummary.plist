@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>订单汇.ipa</key>
+	<array>
+		<dict>
+			<key>architectures</key>
+			<array>
+				<string>armv7</string>
+				<string>arm64</string>
+			</array>
+			<key>certificate</key>
+			<dict>
+				<key>SHA1</key>
+				<string>4D48E6CA5D3D1EC7643244B176810EA5A5CBE6FC</string>
+				<key>dateExpires</key>
+				<string>2019/1/24</string>
+				<key>type</key>
+				<string>iOS Distribution</string>
+			</dict>
+			<key>entitlements</key>
+			<dict>
+				<key>application-identifier</key>
+				<string>5V8LG5T3MJ.com.qygo.ddhing</string>
+				<key>aps-environment</key>
+				<string>production</string>
+				<key>com.apple.developer.team-identifier</key>
+				<string>5V8LG5T3MJ</string>
+				<key>get-task-allow</key>
+				<false/>
+			</dict>
+			<key>name</key>
+			<string>订单汇.app</string>
+			<key>profile</key>
+			<dict>
+				<key>UUID</key>
+				<string>5626a710-11b2-4e9b-bc0c-55d51f7f0a02</string>
+				<key>name</key>
+				<string>iOS Team Ad Hoc Provisioning Profile: com.qygo.ddhing</string>
+			</dict>
+			<key>team</key>
+			<dict>
+				<key>id</key>
+				<string>5V8LG5T3MJ</string>
+				<key>name</key>
+				<string>Chengdu QiYe Technology Co. Ltd.</string>
+			</dict>
+		</dict>
+	</array>
+</dict>
+</plist>
